@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new programming language 
 - 🌱 I’m currently learning Computer Applications
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me drop a dm on insta(@__.iqlas.__)
+- 📫 How to reach me drop a dm on insta(@--.iqlas.--)
 
 <!---
 IqlasShaikh/IqlasShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
