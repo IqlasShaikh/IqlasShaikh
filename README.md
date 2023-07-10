@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @IqlasShaikh
-- 👀 I’m interested in learning new programming language 
-- 🌱 I’m currently learning Computer Applications
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me drop a dm on insta(@--.iqlas.--)
+- 👋 Hi, I’m SHAIKH IQLAS AHMED
+- 👀 PROGRAMMER
+- 🌱 UNDER-GRADUATE STUDENT AT PUNE UNIVERSITY
+- 💞️ IF YOU GOT ANY COLLBORATIVE PROJECT IDEA HIT ME UP!!!
+- 📫 How to reach me drop a dm on LinkedIN:- https://www.linkedin.com/in/shaikh-iqlas-ahmed-689736216/ and on INSTAGRAM (@iqlas2wavyyyy)
 
 <!---
 IqlasShaikh/IqlasShaikh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
